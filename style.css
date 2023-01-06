@@ -1,3 +1,10 @@
+div{
+flex: auto; 
+}
 .p {
   color: red;
+}
+
+.p1 {
+  color: green;
 }
